@@ -1,0 +1,4 @@
+GIT
+Siempre que lo quiera usr, lo abro desde el proyecto que quiera usarlo.
+Comandos
+:c
